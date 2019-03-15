@@ -57,10 +57,10 @@
             android:id="@+id/extended_version_label"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/extended_version"/>
+            android:text="@string/aosep_version"/>
         <TextView
             style="@style/device_info_dialog_value"
-            android:id="@+id/extended_version_value"
+            android:id="@+id/aosep_version_value"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
 
